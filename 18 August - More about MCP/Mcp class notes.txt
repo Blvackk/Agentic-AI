@@ -1,0 +1,9 @@
+(18-08-26)
+
+MCP Client Claude -- file system server
+MCP Client Claude -- gmail mcp server
+MCP Client Cursor -- FileSystem
+MCP Client v/s Code (cline) -- FileSystem and Airbnb
+
+MCP Client -- cline , cursor , ide , antigravity
+MCP Server -- file system, gmail , Airbnb , notebookllm
